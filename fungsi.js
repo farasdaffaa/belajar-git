@@ -6,8 +6,8 @@ console.log(add(1,2))
 const subtract = (a,b) => a - b;
 console.log(subtract(5,2));
 
-const multiply = (a,b) => a*b;
-console.log(multiply(6,2));
+const multiplyNumber = (a,b) => a*b;
+console.log(multiplyNumber(6,2));
 
 const divide = (a,b) => a/b;
 console.log(divide(8,2));
