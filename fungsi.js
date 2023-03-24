@@ -13,3 +13,6 @@ const divide = (a,b) => a/b;
 console.log(divide(8,2));
 
 console.log(add(8,8));
+
+const mathTrigono = (number) => Math.sin(number);
+console.log(mathTrigono(30));
