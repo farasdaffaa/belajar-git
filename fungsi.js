@@ -11,3 +11,5 @@ console.log(multiplyNumber(6,2));
 
 const divide = (a,b) => a/b;
 console.log(divide(8,2));
+
+console.log(add(8,8));
